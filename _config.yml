@@ -1,2 +1,11 @@
-theme: jekyll-theme-minimal
-title: Jacopo's homepage
+title: Jacopo Antonello
+description: Photonics researcher and programmer.
+remote_theme: pages-themes/minimal
+logo: /assets/img/logo.png
+
+plugins:
+  - jekyll-remote-theme
+
+github:
+  is_project_page: false
+  is_user_page: false
