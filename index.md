@@ -3,6 +3,7 @@ layout: default
 ---
 
 ## Experience
+- R&D Software Engineer @ [Opsydia](https://opsydia.com/)
 - Optical engineer @ [Envisics](https://envisics.com/)
 - Postdoc @ [University of Oxford](https://www.ox.ac.uk/)
 - PhD @ [Technische Universiteit Delft](https://www.tudelft.nl/)
